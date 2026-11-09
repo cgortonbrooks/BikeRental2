@@ -1,6 +1,7 @@
 /** Represents one bike in the campus rental system. */
 public class Bike {
-
+    private int id;
+    
     public Bike(int id, String model) {
     }
 
